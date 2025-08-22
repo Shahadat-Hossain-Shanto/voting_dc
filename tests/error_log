@@ -1,0 +1,4 @@
+[02-Oct-2022 05:16:03 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/amignrfa/demo/tests/TestCase.php on line 7
+[02-Oct-2022 05:16:05 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/amignrfa/demo/tests/TestCase.php on line 7
+[02-Oct-2022 05:16:07 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/amignrfa/demo/tests/TestCase.php on line 7
+[02-Oct-2022 05:16:11 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/amignrfa/demo/tests/TestCase.php on line 7

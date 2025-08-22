@@ -1,0 +1,16 @@
+[02-Oct-2022 05:16:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/amignrfa/demo/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/bootstrap/app.php on line 14
+[02-Oct-2022 05:16:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/amignrfa/demo/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/bootstrap/app.php on line 14
+[02-Oct-2022 05:16:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/amignrfa/demo/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/bootstrap/app.php on line 14
+[02-Oct-2022 05:16:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/amignrfa/demo/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/bootstrap/app.php on line 14

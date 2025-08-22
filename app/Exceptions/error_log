@@ -1,0 +1,4 @@
+[02-Oct-2022 05:16:04 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/amignrfa/demo/app/Exceptions/Handler.php on line 7
+[02-Oct-2022 05:16:06 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/amignrfa/demo/app/Exceptions/Handler.php on line 7
+[02-Oct-2022 05:16:08 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/amignrfa/demo/app/Exceptions/Handler.php on line 7
+[02-Oct-2022 05:16:12 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/amignrfa/demo/app/Exceptions/Handler.php on line 7

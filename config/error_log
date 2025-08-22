@@ -1,0 +1,168 @@
+[02-Oct-2022 05:16:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/app.php on line 16
+[02-Oct-2022 05:16:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/app.php on line 16
+[02-Oct-2022 05:16:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/amignrfa/demo/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/view.php on line 17
+[02-Oct-2022 05:16:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/broadcasting.php on line 18
+[02-Oct-2022 05:16:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/session.php on line 21
+[02-Oct-2022 05:16:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/hashing.php on line 32
+[02-Oct-2022 05:16:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/amignrfa/demo/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/view.php on line 17
+[02-Oct-2022 05:16:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/cache.php on line 21
+[02-Oct-2022 05:16:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/services.php on line 18
+[02-Oct-2022 05:16:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/broadcasting.php on line 18
+[02-Oct-2022 05:16:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/session.php on line 21
+[02-Oct-2022 05:16:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/app.php on line 16
+[02-Oct-2022 05:16:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/hashing.php on line 32
+[02-Oct-2022 05:16:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/queue.php on line 16
+[02-Oct-2022 05:16:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/cache.php on line 21
+[02-Oct-2022 05:16:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/services.php on line 18
+[02-Oct-2022 05:16:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/database.php on line 18
+[02-Oct-2022 05:16:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/amignrfa/demo/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/view.php on line 17
+[02-Oct-2022 05:16:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/queue.php on line 16
+[02-Oct-2022 05:16:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/broadcasting.php on line 18
+[02-Oct-2022 05:16:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/filesystems.php on line 16
+[02-Oct-2022 05:16:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/session.php on line 21
+[02-Oct-2022 05:16:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/hashing.php on line 32
+[02-Oct-2022 05:16:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/mail.php on line 16
+[02-Oct-2022 05:16:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/database.php on line 18
+[02-Oct-2022 05:16:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/cache.php on line 21
+[02-Oct-2022 05:16:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/services.php on line 18
+[02-Oct-2022 05:16:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/filesystems.php on line 16
+[02-Oct-2022 05:16:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/logging.php on line 20
+[02-Oct-2022 05:16:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/mail.php on line 16
+[02-Oct-2022 05:16:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/app.php on line 16
+[02-Oct-2022 05:16:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/logging.php on line 20
+[02-Oct-2022 05:16:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/database.php on line 18
+[02-Oct-2022 05:16:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/queue.php on line 16
+[02-Oct-2022 05:16:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/amignrfa/demo/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/view.php on line 17
+[02-Oct-2022 05:16:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/filesystems.php on line 16
+[02-Oct-2022 05:16:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/broadcasting.php on line 18
+[02-Oct-2022 05:16:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/mail.php on line 16
+[02-Oct-2022 05:16:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/session.php on line 21
+[02-Oct-2022 05:16:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/hashing.php on line 32
+[02-Oct-2022 05:16:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/cache.php on line 21
+[02-Oct-2022 05:16:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amignrfa/demo/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amignrfa/demo/config/services.php on line 18

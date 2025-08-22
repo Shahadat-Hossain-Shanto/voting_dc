@@ -1,0 +1,4 @@
+[02-Oct-2022 05:16:03 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/amignrfa/demo/app/Console/Kernel.php on line 8
+[02-Oct-2022 05:16:05 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/amignrfa/demo/app/Console/Kernel.php on line 8
+[02-Oct-2022 05:16:07 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/amignrfa/demo/app/Console/Kernel.php on line 8
+[02-Oct-2022 05:16:11 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/amignrfa/demo/app/Console/Kernel.php on line 8

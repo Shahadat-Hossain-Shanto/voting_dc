@@ -1,0 +1,2 @@
+[02-Oct-2022 05:16:08 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/amignrfa/demo/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[02-Oct-2022 05:16:10 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/amignrfa/demo/database/migrations/2014_10_12_000000_create_users_table.php on line 7

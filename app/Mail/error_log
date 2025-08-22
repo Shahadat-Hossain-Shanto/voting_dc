@@ -1,0 +1,3 @@
+[02-Oct-2022 05:16:06 America/New_York] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home/amignrfa/demo/app/Mail/OrderShipped.php on line 10
+[02-Oct-2022 05:16:08 America/New_York] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home/amignrfa/demo/app/Mail/OrderShipped.php on line 10
+[02-Oct-2022 05:16:10 America/New_York] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home/amignrfa/demo/app/Mail/OrderShipped.php on line 10

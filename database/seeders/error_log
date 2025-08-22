@@ -1,0 +1,2 @@
+[02-Oct-2022 05:16:09 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/amignrfa/demo/database/seeders/DatabaseSeeder.php on line 7
+[02-Oct-2022 05:16:10 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/amignrfa/demo/database/seeders/DatabaseSeeder.php on line 7
